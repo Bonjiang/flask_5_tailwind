@@ -32,7 +32,7 @@ The link can load faster using the CDN
 
 # How to deploy the Flask application to Azure
 
-## Make sure you have a requirements.txt file with whatever module you imported in your app file! or else, there will be an error of for example, 'import pandas as pd', followed by 'No module named 'pandas' in the logstream. (Faced this error, initially-screenshot in 'Errors' folder
+### Make sure you have a requirements.txt file with whatever module you imported in your app file! or else, there will be an error of for example, 'import pandas as pd', followed by 'No module named 'pandas' in the logstream. (Faced this error, initially-screenshot in 'Errors' folder
 
 ### Install Azure CLI 
 
